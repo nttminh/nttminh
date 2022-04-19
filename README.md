@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://app.daily.dev/DailyDevTips">
-  <img src="https://github.com/nttminh/nttminh/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
+  <img src="https://github.com/nttminh/nttminh/blob/master/devcard.svg" width="400" alt="Minh Nguyen's Dev Card"/>
 </a>
 
 
