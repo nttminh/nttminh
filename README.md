@@ -1,6 +1,6 @@
-<!-- <a href="#" target="_blank">
+<a href="#" target="_blank">
   <img src="svg/nttminh.svg" width="1200" alt="Click to see the source" />
-</a> -->
+</a>
 
 <a href="https://app.daily.dev/mnguyen">
   <img src="https://github.com/nttminh/nttminh/blob/main/devcard.svg" width="400" alt="Minh Nguyen's Dev Card"/>
