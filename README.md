@@ -2,9 +2,11 @@
   <img src="svg/nttminh.svg" width="1200" alt="Click to see the source" />
 </a>
 
-<a href="https://app.daily.dev/mnguyen">
-  <img src="https://github.com/nttminh/nttminh/blob/main/devcard.svg" width="400" alt="Minh Nguyen's Dev Card"/>
-</a>
+<div align=center>
+  <a href="https://app.daily.dev/mnguyen">
+    <img src="https://github.com/nttminh/nttminh/blob/main/devcard.svg" width="400" alt="Minh Nguyen's Dev Card"/>
+  </a>
+</div>
 
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
